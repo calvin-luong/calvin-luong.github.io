@@ -5,3 +5,5 @@ https://calvin-luong.github.io/
 
 __Updates:__
 01/06/2021: Using a bootstrap template, current information is not completely filled out.
+
+01/19/2021: Website completed.
